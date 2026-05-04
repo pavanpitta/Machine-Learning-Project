@@ -1,0 +1,5 @@
+Tempo_Tier,n_Tracks_total,n_Tracks_test,Popularity_Rate,Accuracy,F1_Score,ROC_AUC
+Slow (<90 BPM),18421,3684,0.087,0.918,0.412,0.798
+Medium (90-120 BPM),34982,6996,0.142,0.875,0.581,0.861
+Fast (120-150 BPM),32417,6483,0.131,0.882,0.567,0.853
+Very Fast (>150 BPM),14180,2837,0.062,0.937,0.318,0.781

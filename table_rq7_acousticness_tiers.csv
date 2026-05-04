@@ -1,0 +1,4 @@
+Acousticness_Tier,n_Tracks_test,n_Tracks_total,Popularity_Rate,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Electronic (<0.2),7821,39105,0.151,0.871,0.658,0.542,0.594,0.851
+Mixed (0.2-0.6),5234,26172,0.108,0.894,0.612,0.451,0.519,0.821
+Acoustic (>0.6),6945,34723,0.069,0.928,0.671,0.402,0.503,0.838

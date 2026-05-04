@@ -1,0 +1,5 @@
+Strategy,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Baseline (no resampling),0.892,0.687,0.453,0.547,0.847
+SMOTE Oversampling,0.831,0.498,0.732,0.593,0.844
+Random Undersampling,0.794,0.428,0.781,0.553,0.832
+Class Weights (balanced),0.836,0.514,0.701,0.593,0.846

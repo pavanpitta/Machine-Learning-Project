@@ -1,0 +1,11 @@
+feature,gain_importance,gain_rank,permutation_importance_mean,permutation_importance_std,permutation_rank,rank_delta,category
+energy,0.10421,1,0.02134,0.00164,2,1,Energy
+danceability,0.09832,2,0.02287,0.00171,1,1,Rhythm
+loudness_proxy,0.08914,3,0.01821,0.00148,3,0,Energy
+genre_pop,0.07621,4,0.01452,0.00132,4,0,Genre
+acousticness,0.06983,5,0.01183,0.00119,5,0,Acoustic
+tempo,0.06214,6,0.01047,0.00112,6,0,Rhythm
+valence,0.05892,7,0.00892,0.00102,8,1,Mood
+genre_hiphop,0.05634,8,0.00971,0.00108,7,1,Genre
+speechiness,0.05103,9,0.00734,0.00094,9,0,Mood
+instrumentalness,0.04821,10,0.00683,0.00091,10,0,Acoustic
